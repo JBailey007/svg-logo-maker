@@ -23,6 +23,8 @@ Your final question will be the color of the letters. (You can type out this col
 
 A new SVG logo that meets your selected criteria will then be created as a new SVG.logo file in the directory. (Right click on the file and select "Preview" in order to see the created SVG logo.)
 
+# Video Link
+You can find the demonstration link here - https://drive.google.com/file/d/13yvzw46iPK0KAHt4r2z7QSTwehyUysOV/view 
 
 # Credits
 N/A
